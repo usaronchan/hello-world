@@ -1,0 +1,19 @@
+src/*
+
+# Source files list
+!src/helloworld.c
+!src/helloworld.cpp
+!src/helloworld.go
+!src/helloworld.java
+!src/helloworld.js
+!src/helloworld.lua
+!src/helloworld.pl
+!src/helloworld.py
+!src/helloworld.rb
+!src/helloworld.rs
+!src/helloworld.sh
+!src/helloworld.swift
+!src/helloworld.tex
+!src/helloworld.ts
+!src/helloworld.typ
+
