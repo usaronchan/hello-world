@@ -4,7 +4,7 @@
 all: test build
 
 build:
-	sh make.sh
+	sh build.sh
 
 test:
 	sh test.sh
